@@ -1,8 +1,27 @@
-# React + Vite
+# Social Media Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This frontend project is built with react.js and uses lucide-react and recharts for better and more appealing visuals.
 
-Currently, two official plugins are available:
+It has visual representation with the help of charts and graphs, related to 
+- Total followers
+- Engagement Rate
+- Total Posts
+- Total Share
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+With the Growth analytics graph of 
+- Followers
+- Engagement 
+- Posts
+
+And a pie chart representation of the engagement distribution of 
+- likes
+- comments
+- shares
+- saves
+
+
+
+[s1](Images/s1.png)
+---
+[s2](Images/s2.png)
+--

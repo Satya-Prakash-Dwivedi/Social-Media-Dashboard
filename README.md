@@ -20,8 +20,8 @@ And a pie chart representation of the engagement distribution of
 - saves
 
 
-
-[s1](Images/s1.png)
+![s1](Images/s1.png)
 ---
-[s2](Images/s2.png)
+
+![s2](Images/s2.png)
 --
